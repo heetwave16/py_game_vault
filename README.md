@@ -26,5 +26,5 @@ You'll just need Python installed on your machine.
 
 1. **Grab the repo:**
    ```bash
-   git clone [https://github.com/heetwave16/py_game_vault.git](https://github.com/heetwave16/py_game_vault.git)
+   git clone https://github.com/heetwave16/py_game_vault.git
    cd py_game_vault
