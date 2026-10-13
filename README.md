@@ -13,7 +13,7 @@ Right now, it has a working Snake game, but I'll be adding more retro mini-games
 #### 1. Snake (`snake.py`)
 The classic Nokia-style snake game. Eat the food dots, grow your snake, and don't slam into the walls or your own tail.
 
-- **Controls:** Arrow keys or `W`, `A`, `S`, `D` to steer
+- **Controls:** Arrow keys
 - **Goal:** Eat as much as you can and rack up a high score.
 
 *(More mini-games on the way)*
