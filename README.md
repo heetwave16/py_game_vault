@@ -16,6 +16,14 @@ The classic Nokia-style snake game. Eat the food dots, grow your snake, and don'
 - **Controls:** Arrow keys
 - **Goal:** Eat as much as you can and rack up a high score.
 
+### 2. Tetris (`tetris.py`)
+The classic falling-block puzzle game. Rotate and place falling tetrominoes to clear complete horizontal lines and keep the board from filling up.
+- **Controls:** 
+  - Left / Right Arrow: Move piece
+  - Up Arrow: Rotate piece
+  - Down Arrow: Soft drop
+- **Goal:** Clear lines, rack up points, and survive as long as possible.
+
 *(More mini-games on the way)*
 
 ---
